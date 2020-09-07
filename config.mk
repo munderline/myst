@@ -2,6 +2,8 @@
 VERSION = 0.8.2
 
 # Customize below to fit your system
+# maybe install pkgconf
+# pkg install pkgconf || pacman -S pkgconf
 
 # paths
 PREFIX = /usr/local
